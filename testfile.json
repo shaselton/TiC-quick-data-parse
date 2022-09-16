@@ -1,0 +1,113 @@
+	{
+		"negotiation_arrangement": "ffs",
+		"name": "NEONATES, DIED OR TRANSFERRED TO ANOTHER ACUTE CARE FACILITY",
+		"billing_code_type": "FY2022",
+		"billing_code_type_version": "FY2022 MS DRG V39.0",
+		"billing_code": "789",
+		"description": "Neonates, Died Or Transferred To Another Acute Care Facility",
+		"negotiated_rates": [{
+			"provider_references": [13400001, 13690001],
+			"negotiated_prices": [{
+				"negotiated_type": "negotiated",
+				"negotiated_rate": 118.50,
+				"expiration_date": "2022-12-31",
+				"billing_class": "institutional"
+			}]
+		},{
+			"provider_references": [700005],
+			"negotiated_prices": [{
+				"negotiated_type": "negotiated",
+				"negotiated_rate": 140.00,
+				"expiration_date": "2022-12-31",
+				"billing_class": "institutional"
+			}]
+		},{
+			"provider_references": [13710001],
+			"negotiated_prices": [{
+				"negotiated_type": "negotiated",
+				"negotiated_rate": 141.00,
+				"expiration_date": "2022-12-31",
+				"billing_class": "institutional"
+			}]
+		},{
+			"provider_references": [2470001],
+			"negotiated_prices": [{
+				"negotiated_type": "negotiated",
+				"negotiated_rate": 145.00,
+				"expiration_date": "2022-12-31",
+				"billing_class": "institutional"
+			}]
+		},{
+			"provider_references": [13720001],
+			"negotiated_prices": [{
+				"negotiated_type": "negotiated",
+				"negotiated_rate": 163.00,
+				"expiration_date": "2022-12-31",
+				"billing_class": "institutional"
+			}]
+		},{
+			"provider_references": [13740001],
+			"negotiated_prices": [{
+				"negotiated_type": "negotiated",
+				"negotiated_rate": 170.00,
+				"expiration_date": "2022-12-31",
+				"billing_class": "institutional"
+			}]
+		},{
+			"provider_references": [20010001],
+			"negotiated_prices": [{
+				"negotiated_type": "negotiated",
+				"negotiated_rate": 185.00,
+				"expiration_date": "2022-12-31",
+				"billing_class": "institutional"
+			}]
+		},{
+			"provider_references": [13850001, 19810001, 13280001],
+			"negotiated_prices": [{
+				"negotiated_type": "negotiated",
+				"negotiated_rate": 195.00,
+				"expiration_date": "2022-12-31",
+				"billing_class": "institutional"
+			}]
+		},{
+			"provider_references": [19860001],
+			"negotiated_prices": [{
+				"negotiated_type": "negotiated",
+				"negotiated_rate": 225.00,
+				"expiration_date": "2022-12-31",
+				"billing_class": "institutional"
+			}]
+		},{
+			"provider_references": [19730001],
+			"negotiated_prices": [{
+				"negotiated_type": "negotiated",
+				"negotiated_rate": 275.00,
+				"expiration_date": "2022-12-31",
+				"billing_class": "institutional"
+			}]
+		},{
+			"provider_references": [13660001, 3450001],
+			"negotiated_prices": [{
+				"negotiated_type": "negotiated",
+				"negotiated_rate": 285.00,
+				"expiration_date": "2022-12-31",
+				"billing_class": "institutional"
+			}]
+		},{
+			"provider_references": [10260001],
+			"negotiated_prices": [{
+				"negotiated_type": "negotiated",
+				"negotiated_rate": 300.00,
+				"expiration_date": "2022-12-31",
+				"billing_class": "institutional"
+			}]
+		},{
+			"provider_references": [13760001],
+			"negotiated_prices": [{
+				"negotiated_type": "negotiated",
+				"negotiated_rate": 350.00,
+				"expiration_date": "2022-12-31",
+				"billing_class": "institutional"
+			}]
+		}]
+	}
